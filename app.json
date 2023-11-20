@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "imagekit-transformer",
+    "slug": "imagekit-transformer",
+    "android": {
+      "package": "com.akumzy.imagekittransformer"
+    },
+    "ios": {
+      "bundleIdentifier": "com.akumzy.imagekittransformer"
+    }
+  }
+}
